@@ -1,4 +1,4 @@
-# **GITHUB CheatSheet**
+git@github.com:cvassia/Learnung-Git.git# **GITHUB CheatSheet**
 
 - **_push:_** giving new Content into Repository bla bla bla ich bin ein Troll!!!
 
@@ -44,3 +44,5 @@
 make a new change here
 
 change only on branch
+
+blah blah blah
